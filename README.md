@@ -2,8 +2,8 @@
 Direct Bank Deposit Australia files only
 ---------------------------------------
  
- Updated from:
- Direct Bank Deposit v 1.5.3 for Zen Cart 1.3.8a - v 1.5.4
+Updated from:
+Direct Bank Deposit v 1.5.3 for Zen Cart 1.3.8a - v 1.5.4
 May 22 2015
  (Modified AUS to include Reference, Cheques and Money Orders. 
   Also added an address field. 
