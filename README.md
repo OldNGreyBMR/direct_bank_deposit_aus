@@ -1,5 +1,6 @@
 # direct_bank_deposit_aus
- Direct Bank Deposit Australia files only
+Direct Bank Deposit Australia files only
+---------------------------------------
  
  Updated from:
  Direct Bank Deposit v 1.5.3 for Zen Cart 1.3.8a - v 1.5.4
